@@ -1,0 +1,16 @@
+body {
+  height: 3000;
+}
+
+.jumbotron {
+  padding: 8rem 1rem;
+  background-color: #e2edff;
+}
+
+.navbar {
+  height: 200;
+}
+
+section {
+  padding-top: 5em;
+}
